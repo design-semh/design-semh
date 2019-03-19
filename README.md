@@ -1,2 +1,1 @@
-# design-semh.github.com
-# test
+# design-semh
